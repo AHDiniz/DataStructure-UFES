@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524079801 source:/home/2017100200/Documentos/ED1/PilhaTad/main.c
+	<stdio.h>
+	"pilha.h"
+
+1524076311 /home/2017100200/Documentos/ED1/PilhaTad/pilha.h
+
+1524080288 source:/home/2017100200/Documentos/ED1/PilhaTad/pilha.c
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
